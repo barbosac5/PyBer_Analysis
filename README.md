@@ -5,7 +5,7 @@
 
 
 ## Results
-  For Deliverable one, I was instructed to to use the starter code given to get the total number of rides, drivers, and fares for each city type. Then I was requested to find the average fare per driver for each city type and create a new DataFrame with this infomration. For Deliverable 1, the rural city type had a vastly smaller amount of rides compared to the suburban and urban types. The rural type has 125 rides while suburban had 625 and urban had 1625 total rides. Despite this, the rural type has the most expensive trip costs as well as the highest average fare per driver. The suburban and urban fares per ride were $24.53 and $30.97 respectively while the rural fares were $34.62. This can also be said for the driver count as well as the average fare per driver. There were only 78 rural type drivers while the average fare was $55.49. Suburban and Urban had cheapter fares with $30.97 and $24.53 per ride as well as $39.50 and $16.57 average fare per driver.
+  For Deliverable one, I was instructed to to use the starter code given to get the total number of rides, drivers, and fares for each city type. Then I was requested to find the average fare per driver for each city type and create a new DataFrame with this infomration. For Deliverable 1, the rural city type had a vastly smaller amount of rides compared to the suburban and urban types. The rural type has 125 rides while suburban had 625 and urban had 1625 total rides. Despite this, the rural type has the most expensive trip costs as well as the highest average fare per driver. The suburban and urban fares per ride were $24.53 and $30.97 respectively while the rural fares were $34.62. This can also be said for the driver count as well as the average fare per driver. There were only 78 rural type drivers while the average fare was $55.49. Suburban and Urban (with 490 for suburban and 2,405 drivers for urban) had cheapter fares with $30.97 and $24.53 per ride as well as $39.50 and $16.57 average fare per driver.
   
   **insert Pyber Summary here
   
@@ -15,9 +15,13 @@ In Deliverable two, I created a DataFrame for the summary of the fares for each 
 **insert line graph here
 
 ## Summary
-
-
+  Based on the ride-sharing data, I do have some reccomendations that can address some of the results of the data as a whole. The first thing I would do is increase the driver count especially in the rural areas. The amount of drivers in suburban areas is about six times more than in rural areas with only 78 drivers. This is most likely because rural areas consist of much longer rides with can be time-consuming over a long period. Also this change can lower the prices of the average fare due to the fact that not many rides go to rural areas. The lack of rides cause the rates to be much higher compared to the subruban and urban areas which can be seen in Deliverable one. 
+  In addition, I think another great addition to help with all city types across the board would be to have certain benefits or rewards based on the amunt of rides taken for the customer. For example, after a certain number of rides a customer can get one ride for free. I think rewards such as a free ride can incentivise a customer to keep getting ride no matter where they are which can help bump up ride counts across all city types since there is a good reason to keep getting rides. Another incentive can be if a driver recieves an amazing review, the driver can get a reward or be a standout in the company for thier great work which shows that good service is appreciated and noticed. I think rewards such as these can provide another on the job incentive to increase rides in all areas as well as have great customer service so then the customer can ride-share more often.
+  
 ## Resources
-
+Anaconda version 2.1.1
+Jupyter Notebook version 6.4.5
+Python version 3.9.7
+Pandas version 1.3.4
 
 
