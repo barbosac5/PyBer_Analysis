@@ -24,9 +24,9 @@ In Deliverable two, I created a DataFrame for the summary of the fares for each 
   In addition, I think another great addition to help with all city types across the board would be to have certain benefits or rewards based on the amunt of rides taken for the customer. For example, after a certain number of rides a customer can get one ride for free. I think rewards such as a free ride can incentivise a customer to keep getting ride no matter where they are which can help bump up ride counts across all city types since there is a good reason to keep getting rides. Another incentive can be if a driver recieves an amazing review, the driver can get a reward or be a standout in the company for thier great work which shows that good service is appreciated and noticed. I think rewards such as these can provide another on the job incentive to increase rides in all areas as well as have great customer service so then the customer can ride-share more often.
   
 ## Resources
-Anaconda version 2.1.1
-Jupyter Notebook version 6.4.5
-Python version 3.9.7
-Pandas version 1.3.4
+- Anaconda version 2.1.1
+- Jupyter Notebook version 6.4.5
+- Python version 3.9.7
+- Pandas version 1.3.4
 
 
